@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @one2520
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-one2520/one2520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - 🔭 I’m interested in: Data Integrity, Human Rights Advocacy, and NPOV Information Innovation.
+- 🌱 I’m currently learning: Advanced Analytics to expose sham transactions and digital forensics.
+- 👯 I’m looking to collaborate on: Projects that use data as a standard for truth and social justice.
+- 💬 Ask me about: The relationship between data evidence and the essence of human-divine loyalty.
+- 📫 How to reach me: google.dev/sarid-raengkrud
